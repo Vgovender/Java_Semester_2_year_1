@@ -1,0 +1,61 @@
+-------------------------------------------------------------------------------
+Test set: za.co.wethinkcode.lms.test.AnswerTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 6, Skipped: 0, Time elapsed: 0.018 s <<< FAILURE! - in za.co.wethinkcode.lms.test.AnswerTest
+shouldConvertItselfToAString  Time elapsed: 0 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Answer cannot be resolved to a type
+	Answer cannot be resolved to a type
+
+	at za.co.wethinkcode.lms.test.AnswerTest.shouldConvertItselfToAString(AnswerTest.java:13)
+
+checkEquality  Time elapsed: 0 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Answer cannot be resolved to a type
+	Answer cannot be resolved to a type
+	Answer cannot be resolved to a type
+	Answer cannot be resolved to a type
+
+	at za.co.wethinkcode.lms.test.AnswerTest.checkEquality(AnswerTest.java:21)
+
+checkGuess  Time elapsed: 0 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Answer cannot be resolved to a type
+	Answer cannot be resolved to a type
+	Answer cannot be resolved to a type
+	Answer cannot be resolved to a type
+
+	at za.co.wethinkcode.lms.test.AnswerTest.checkGuess(AnswerTest.java:64)
+
+hasLetter  Time elapsed: 0.011 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Answer cannot be resolved to a type
+	Answer cannot be resolved to a type
+
+	at za.co.wethinkcode.lms.test.AnswerTest.hasLetter(AnswerTest.java:40)
+
+generateRandomHint  Time elapsed: 0 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Answer cannot be resolved to a type
+	Answer cannot be resolved to a type
+	Answer cannot be resolved to a type
+
+	at za.co.wethinkcode.lms.test.AnswerTest.generateRandomHint(AnswerTest.java:49)
+
+giveAHint  Time elapsed: 0 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Answer cannot be resolved to a type
+	Answer cannot be resolved to a type
+	Answer cannot be resolved to a type
+	Answer cannot be resolved to a type
+	Answer cannot be resolved to a type
+	Answer cannot be resolved to a type
+
+	at za.co.wethinkcode.lms.test.AnswerTest.giveAHint(AnswerTest.java:30)
+

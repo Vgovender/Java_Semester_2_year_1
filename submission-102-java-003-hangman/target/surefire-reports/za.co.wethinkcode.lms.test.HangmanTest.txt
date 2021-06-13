@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: za.co.wethinkcode.lms.test.HangmanTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in za.co.wethinkcode.lms.test.HangmanTest
+shouldWinTheGame  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not expecting an exception.
+	at za.co.wethinkcode.lms.test.HangmanTest.simulateGame(HangmanTest.java:25)
+	at za.co.wethinkcode.lms.test.HangmanTest.shouldWinTheGame(HangmanTest.java:39)
+
+shouldLoseTheGame  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not expecting an exception.
+	at za.co.wethinkcode.lms.test.HangmanTest.simulateGame(HangmanTest.java:25)
+	at za.co.wethinkcode.lms.test.HangmanTest.shouldLoseTheGame(HangmanTest.java:48)
+
